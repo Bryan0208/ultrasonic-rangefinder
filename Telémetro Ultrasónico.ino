@@ -19,7 +19,7 @@
   This example code is in the public domain.
 */
 
-int inches = 0;  //Esta es una variable global la cual sera ejecutada una vez
+int inches = 0;  //Esta es una variable global la cual sera ejecutada una vez.
 
 int cm = 0;
 
